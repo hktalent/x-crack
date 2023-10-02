@@ -19,8 +19,7 @@ require (
 	github.com/stacktitan/smb v0.0.0-20170721050911-ba124664fd6b
 	github.com/urfave/cli v1.20.0
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
-	golang.org/x/crypto v0.0.0-20190211182817-74369b46fc67
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
+	golang.org/x/crypto v0.1.0
 	gopkg.in/VividCortex/ewma.v1 v1.1.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/cheggaaa/pb.v2 v2.0.6
